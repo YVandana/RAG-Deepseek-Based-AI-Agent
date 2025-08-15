@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+rag_env/
+
+# Environment variables
+.env
+
+# Document storage
+docs/
+miscellaneous/
+# Streamlit
+.streamlit/
+
+# Ollama
+.ollama/
